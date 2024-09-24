@@ -1,0 +1,515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\huongdansudung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\huongdansudung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EA1i h\u1ECDc 2021 - 2025\\n\u0103m 2 _ c\u01A1 s\u1EDF [47]\\[2022-2023] k\u00EC 2 [21]\\b\u00E0i t\u1EADp l\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n [4]\\formdangnhap\\formdangnhap\\formnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\crystalreportptt.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\crystalreportptt.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\crystalreport2.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\crystalreport2.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formthongkengaylap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formthongkengaylap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\huongdansudung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\huongdansudung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\formdangnhap\\formthongkengaylap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F28A485-5169-4EE5-9395-38769BA834F0}|FormDangNhap\\FormDangNhap.csproj|solutionrelative:formdangnhap\\formthongkengaylap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNV.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormNV.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormNV.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormNV.cs",
+              "RelativeToolTip": "FormDangNhap\\FormNV.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAgwDgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T16:29:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\DangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\DangNhap.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\DangNhap.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:35.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\DangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\DangNhap.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\DangNhap.cs",
+              "RelativeToolTip": "FormDangNhap\\DangNhap.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:35.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form1.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form1.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form1.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form2.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form2.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form2.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:35.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form2.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form2.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form2.cs",
+              "RelativeToolTip": "FormDangNhap\\Form2.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwCkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:35.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNV.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormNV.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormNV.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormNV.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\FormNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:35.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form5.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form5.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form5.cs",
+              "RelativeToolTip": "FormDangNhap\\Form5.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form6.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form6.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form6.cs",
+              "RelativeToolTip": "FormDangNhap\\Form6.cs",
+              "ViewState": "AQIAAHQBAAAAAAAAAAAAAI0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-11T15:33:48.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HuongDanSuDung.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\HuongDanSuDung.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\HuongDanSuDung.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\HuongDanSuDung.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\HuongDanSuDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T16:29:36.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form4.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form4.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form4.cs",
+              "RelativeToolTip": "FormDangNhap\\Form4.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrystalReportPTT.rpt",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\CrystalReportPTT.rpt",
+              "RelativeDocumentMoniker": "FormDangNhap\\CrystalReportPTT.rpt",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\CrystalReportPTT.rpt",
+              "RelativeToolTip": "FormDangNhap\\CrystalReportPTT.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-10-02T16:29:36.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormSach.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormSach.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormSach.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormSach.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\FormSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:35.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormNXB.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormNXB.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormNXB.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormNXB.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\FormNXB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form4.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form4.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form4.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form6.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form6.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form6.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-11T15:33:45.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form5.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form5.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form5.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:35.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormKH.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormKH.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormKH.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormKH.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\FormKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form3.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form3.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form3.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormThongKeNgayLap.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormThongKeNgayLap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormThongKeNgayLap.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormThongKeNgayLap.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\FormThongKeNgayLap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form1.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form1.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form1.cs",
+              "RelativeToolTip": "FormDangNhap\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:35.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CrystalReport3.rpt",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\CrystalReport3.rpt",
+              "RelativeDocumentMoniker": "FormDangNhap\\CrystalReport3.rpt",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\CrystalReport3.rpt",
+              "RelativeToolTip": "FormDangNhap\\CrystalReport3.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-10T09:17:00.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CrystalReport2.rpt",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\CrystalReport2.rpt",
+              "RelativeDocumentMoniker": "FormDangNhap\\CrystalReport2.rpt",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\CrystalReport2.rpt",
+              "RelativeToolTip": "FormDangNhap\\CrystalReport2.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-10T08:06:08.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormSach.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormSach.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormSach.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormSach.cs",
+              "RelativeToolTip": "FormDangNhap\\FormSach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:35.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormSach.Designer.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormSach.Designer.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormSach.Designer.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormSach.Designer.cs",
+              "RelativeToolTip": "FormDangNhap\\FormSach.Designer.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAIwO8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-10-02T16:29:36.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormKH.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormKH.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormKH.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormKH.cs",
+              "RelativeToolTip": "FormDangNhap\\FormKH.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form6.Designer.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form6.Designer.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form6.Designer.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form6.Designer.cs",
+              "RelativeToolTip": "FormDangNhap\\Form6.Designer.cs",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAIwFsBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-10-02T16:29:36.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormNXB.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormNXB.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormNXB.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormNXB.cs",
+              "RelativeToolTip": "FormDangNhap\\FormNXB.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAADgvw0BAAC1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form3.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\Form3.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\Form3.cs",
+              "RelativeToolTip": "FormDangNhap\\Form3.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAIAwwJQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HuongDanSuDung.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\HuongDanSuDung.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\HuongDanSuDung.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\HuongDanSuDung.cs",
+              "RelativeToolTip": "FormDangNhap\\HuongDanSuDung.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T16:29:36.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormThongKeNgayLap.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormThongKeNgayLap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\FormThongKeNgayLap.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP \u0110\u1EA0I H\u1ECCC 2021 - 2025\\N\u0102M 2 _ C\u01A0 S\u1EDE [47]\\[2022-2023] K\u00CC 2 [21]\\B\u00C0I T\u1EACP L\u1EACP TR\u00CCNH H\u01AF\u1EDANG S\u1EF0 KI\u1EC6N [4]\\FormDangNhap\\FormDangNhap\\FormThongKeNgayLap.cs",
+              "RelativeToolTip": "FormDangNhap\\FormThongKeNgayLap.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-02T16:29:36.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
